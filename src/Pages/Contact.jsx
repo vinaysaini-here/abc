@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => {
   return (
     <>
-      {/* Banner */}
+      {/* Banner */} 
       <section
         className="w-full h-[300px] md:h-[400px] bg-cover bg-center flex items-center justify-center relative"
         style={{
